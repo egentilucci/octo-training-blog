@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'OctoTraing',
+  title: 'OctoTraining',
   author: 'Tails Azimuth',
-  headerTitle: 'Octo Traing',
-  description: 'A blog..',
+  headerTitle: 'Octo Training Blog',
+  description: 'A blog on octopus training',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://octo-training-blog.vercel.app/',
