@@ -6,7 +6,7 @@ const siteMetadata = {
   description: 'A blog..',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://octo-traing-blog.vercel.app/',
+  siteUrl: 'https://octo-training-blog.vercel.app/',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
